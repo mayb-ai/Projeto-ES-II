@@ -11,6 +11,5 @@
 ## Componentes Principais 
 6.1 Financiamento coletivo(crowdfunding)
 6.2 Distribuição de software especializada em jogos.
-
 6.3 Repositório de código aberto.
 
