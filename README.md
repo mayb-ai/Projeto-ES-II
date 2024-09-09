@@ -14,3 +14,5 @@
 6.3 Repositório de código aberto.
 ## Personas
 7. Link do Canvas com Personas: https://www.canva.com/design/DAGPXX-iZ6Y/kASHAMXYNHiOxbvBtd43nw/edit?utm_content=DAGPXX-iZ6Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+## Jornada dos Personas
+8. https://github.com/mayb-ai/Projeto-ES-II/tree/main/DOCS
