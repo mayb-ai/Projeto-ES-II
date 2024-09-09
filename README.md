@@ -1,5 +1,5 @@
-## Nome (provisório) do projeto
-1. Fazjogo
+## Nome do projeto
+1. Gameral
 ## Nomes 
 2. Liz Estebam, Maria Gabriela e Matheus Zanetti
 ## Resumo
