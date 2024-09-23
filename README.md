@@ -17,4 +17,4 @@
 ## Jornada dos Personas
 8. Jornada dos personas [aqui](https://github.com/mayb-ai/Projeto-ES-II/tree/main/DOCS).
 ## Protótipo de baixa fidelidade
-9 Protótipo de baixa fidelidade [aqui](https://app.moqups.com/Wd9qNTm66zxK5Ql4omWBXln3eHdTQLu3/view/page/acaaa9c8c)
+9 Protótipo de baixa fidelidade, em produção [aqui](https://app.moqups.com/Wd9qNTm66zxK5Ql4omWBXln3eHdTQLu3/view/page/acaaa9c8c)
