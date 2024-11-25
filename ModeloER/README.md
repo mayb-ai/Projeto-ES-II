@@ -7,6 +7,7 @@
 
 **Duvidas**:
 1 Carnalidade correta?
+
 2 Como posso inserir o Administrador (Ele supervisiona todo o sistema para banir conteudos improprios ou pessoas com comportamentos inadequados), considerando que ele não interage de forma tão incisiva com as entidades principais para ser colocado diretamente no modelo?"
 
 **Correções**:
