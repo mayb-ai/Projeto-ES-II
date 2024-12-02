@@ -20,3 +20,7 @@
 9 Protótipo de baixa fidelidade, em produção das imagens [aqui](https://github.com/mayb-ai/Projeto-ES-II/blob/main/Prototipo%20BN/baixo%20n%C3%ADvel.pdf)
 ## Apresentação do Protótipo de Baixa Fidelidade
 10. Link do [video](https://www.youtube.com/watch?v=hVhy_2P6nhE)
+##  Modelo conceitual
+11. [LINK](https://github.com/mayb-ai/Projeto-ES-II/blob/main/ModeloER/EntidadeRelacionamentoGameral.png)
+## Modelo E/R
+12. [Link]()
