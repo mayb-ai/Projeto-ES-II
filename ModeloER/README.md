@@ -17,4 +17,6 @@
    - Indicar "Voluntário".
 2. Também tem o atributo **valor**, onde é possível:
    - Definir um valor de pagamento (use $0,00 caso o objetivo seja aprendizado).
+3. O Arquivo PNJ está dando problema para converte no BRmodelo
+   - Caso de emergencia olhar no arquivo original
 
