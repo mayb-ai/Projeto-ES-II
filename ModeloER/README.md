@@ -6,9 +6,9 @@
 **Descrição**: O modelo entidade-relacionamento do projeto GAMERAL descreve como as entidades (Jogo, Doador, Freelancer, Idealizador) se relacionam e se caracterizam.
 
 **Duvidas**:
-1 Carnalidade correta?
+1 Ter relação entre? freelancer e idealizador (contrato) ou deixar no constroi?
 
-2 Como posso inserir o Administrador (Ele supervisiona todo o sistema para banir conteudos improprios ou pessoas com comportamentos inadequados), considerando que ele não interage de forma tão incisiva com as entidades principais para ser colocado diretamente no modelo?"
+2 Como funciona a relação/Herança entre jogos e etapadev
 
 **Correções**:
 
