@@ -24,3 +24,5 @@
 11. [LINK](https://github.com/mayb-ai/Projeto-ES-II/blob/main/Modelo/Diagrama%20Conceitual.pdf) do modelo conceituak
 ## Modelo E/R
 12. [Link](https://github.com/mayb-ai/Projeto-ES-II/blob/main/ModeloER/EntidadeRelacionamentoGameral.png) do modelo E/R
+## Prototipo navegavel
+13. [link](https://www.figma.com/design/lCI6aVlzHO8xKuCCQnFT2d/gameral?node-id=9-2&t=7HsXIVy5oQh7dRff-1)
