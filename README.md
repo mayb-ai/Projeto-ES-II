@@ -27,4 +27,4 @@
 ## Prototipo navegavel
 13. [link](https://www.figma.com/design/lCI6aVlzHO8xKuCCQnFT2d/gameral?node-id=9-2&t=7HsXIVy5oQh7dRff-1)
 ## Protótipo de Alta Fidelidade + Diagrama
-14. Link do [vídeo](https://youtu.be/5F0NCxbXC64)
+14. Link do [vídeo](https://youtu.be/TXcdNi35TEA)
