@@ -21,7 +21,7 @@
 ## Apresentação do Protótipo de Baixa Fidelidade
 10. Link do [video](https://www.youtube.com/watch?v=hVhy_2P6nhE)
 ##  Modelo conceitual
-11. [LINK]([https://github.com/mayb-ai/Projeto-ES-II/blob/main/Modelo/Diagrama%20Conceitual.pdf](https://github.com/mayb-ai/Projeto-ES-II/blob/main/Modelo/Diagrama%20Conceitual%20.pdf)) do modelo conceitual
+11. [LINK](https://github.com/mayb-ai/Projeto-ES-II/blob/main/Modelo/Diagrama%20Conceitual%20.pdf) do modelo conceitual
 ## Modelo E/R
 12. [Link](https://github.com/mayb-ai/Projeto-ES-II/blob/main/ModeloER/EntidadeRelacionamentoGameral.png) do modelo E/R
 ## Prototipo navegavel
